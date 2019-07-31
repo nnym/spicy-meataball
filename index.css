@@ -1,3 +1,22 @@
-body {
-    background: url("images/spaghetti1.png")
+button {
+    background-color: #0008;
+    border: 1px white solid;
+    display: block;
+    width: 20vw;
+    height: 20vh;
+    margin: 20% auto;
+    color: white;
+    font-size: 32pt;
+    text-align: center;
+}
+
+button:active {
+    background-color: #000a;
+    border-color: #fffd;
+    color: #eee;
+}
+
+audio {
+    display: block;
+    margin: -15% auto;
 }
