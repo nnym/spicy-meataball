@@ -10,5 +10,3 @@ function setBackground() {
 }
 
 setBackground()
-
-document.onload = document.getElementsByTagName("audio")[0].play()
